@@ -1,0 +1,14 @@
+.CheckoutSummery{
+    width: 80%;
+    height: auto;
+    margin: auto;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+
+@media (min-width:500px){
+    .CheckoutSummery{
+        font-size: 100%;
+        width: 500px;
+    }
+}
